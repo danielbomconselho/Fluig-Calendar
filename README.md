@@ -3,7 +3,7 @@
 
 Monitora todos os arquivos enviados para a plataforma fluig e caso seja um MP4 converte ele para um formato mais leve para evitar o consumo de banda.
 
-![](./fluig-partner.png)
+![fluig-partners](./fluig-partner.png)
 
 ## Configuração para Desenvolvimento
 
@@ -34,7 +34,7 @@ Alterar parentDocumentId:"aqui código do formulario exportado"
 
 ## Licença
 
-Daniel Bom Conselho Sales– [@danielbomconselhosales](https://www.instagram.com/bomconselhosales/) – danielbomconselho@gmail.com - [linkedin-image](https://www.linkedin.com/in/daniel-bom-conselho-sales-1753611b/)
+Daniel Bom Conselho Sales– [@danielbomconselhosales](https://www.instagram.com/bomconselhosales/) – danielbomconselho@gmail.com - [![linkedin-image]](https://www.linkedin.com/in/daniel-bom-conselho-sales-1753611b/)
 
 Calendario é distribuído livremente.
 
