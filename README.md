@@ -34,7 +34,7 @@ Alterar parentDocumentId:"aqui código do formulario exportado"
 
 ## Licença
 
-Daniel Bom Conselho Sales– [@danielbomconselhosales](https://www.instagram.com/bomconselhosales/) – danielbomconselho@gmail.com - ![](./linkedin.png)https://www.linkedin.com/in/daniel-bom-conselho-sales-1753611b/
+Daniel Bom Conselho Sales– [@danielbomconselhosales](https://www.instagram.com/bomconselhosales/) – danielbomconselho@gmail.com - [linkedin-image](https://www.linkedin.com/in/daniel-bom-conselho-sales-1753611b/)
 
 Calendario é distribuído livremente.
 
@@ -42,3 +42,5 @@ _[Fullcalendar](https://fullcalendar.io/) é de propriedade dos seus autores.
 
 
 [https://github.com/danielbomconselho/](https://github.com/danielbomconselho/)
+
+[linkedin-image]:./linkedin.png
