@@ -8,33 +8,37 @@ Monitora todos os arquivos enviados para a plataforma fluig e caso seja um MP4 c
 ## Configuração para Desenvolvimento
 
 Acesse ./wcm/widget/Calendario/src/main/webapp/resources/js/Calendario.js
-Procure pela linha     parentDocumentId:"4889" E altere o valor entre aspa pelo codigo do seu formulario.
+
+Procure pela linha parentDocumentId:"4889" E altere o valor entre aspa pelo codigo do seu formulario.
 * getDatasetFiliais, 
 * getDatasetDepartamentos, 
 * initFilterDepartamentos
 * initFilterFilial
-Devem ser editados para suas necessidades.
 
+Devem ser editados para suas necessidades.
 
 ## Instalação
 
 Windows:
 
 ```sh
-Export widget and Form to fluig
+Exportar formulario fluig, pegar o codigo do formulario no ged
+
+Alterar parentDocumentId:"aqui cosdigo do formulario exportado"
 ```
+
 ## Histórico de lançamentos
 
 * 1.0
-    * Trabalho em andamento
+    * Calendario 100% funcional
 
 ## Licença
 
 Daniel Bom Conselho Sales– [@danielbomconselhosales](https://www.instagram.com/bomconselhosales/) – danielbomconselho@gmail.com
 
-Fluig-Handbreak-Cli é distribuído livremente.
+Calendario é distribuído livremente.
 
-_[Handbreak](https://handbrake.fr/) é de propriedade dos seus autores._
+_[Fullcalendar](https://fullcalendar.io/) é de propriedade dos seus autores.
 
 
 [https://github.com/danielbomconselho/](https://github.com/danielbomconselho/)
