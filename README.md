@@ -34,7 +34,7 @@ Alterar parentDocumentId:"aqui código do formulario exportado"
 
 ## Licença
 
-Daniel Bom Conselho Sales – [![insta-image]](https://www.instagram.com/bomconselhosales/) – [![google-image]](danielbomconselho@gmail.com) - [![linkedin-image]](https://www.linkedin.com/in/daniel-bom-conselho-sales-1753611b/)
+Daniel Bom Conselho Sales – [![insta-image]](https://www.instagram.com/bomconselhosales/) [![google-image]](mailto:danielbomconselho@gmail.com) [![linkedin-image]](https://www.linkedin.com/in/daniel-bom-conselho-sales-1753611b/)
 
 Calendario é distribuído livremente.
 
