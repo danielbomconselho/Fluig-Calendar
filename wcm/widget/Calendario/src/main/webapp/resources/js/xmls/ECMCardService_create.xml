@@ -1,0 +1,105 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ws="http://ws.dm.ecm.technology.totvs.com/">
+    <soapenv:Header/>
+    <soapenv:Body>
+        <ws:create>
+            <companyId/>
+            <username/>
+            <password/>
+            <card>
+                <item>
+                    <cardData>
+                        <field>event</field>
+                        <value name="event"/>
+                    </cardData>
+                    <cardData>
+                        <field>publicEvent</field>
+                        <value name="publicEvent"/>
+                    </cardData>
+                    <cardData>
+                        <field>description</field>
+                        <value name="description"/>
+                    </cardData>
+                    <cardData>
+                        <field>eventcolor</field>
+                        <value name="eventcolor"/>
+                    </cardData>
+                    <cardData>
+                        <field>participatingUsers</field>
+                        <value name="participatingUsers"/>
+                    </cardData>
+                    <cardData>
+                        <field>participatingGroups</field>
+                        <value name="participatingGroups"/>
+                    </cardData>                    
+                    <cardData>
+                        <field>creator</field>
+                        <value name="creator"/>
+                    </cardData>
+                    <cardData>
+                        <field>startDate</field>
+                        <value name="startDate"/>
+                    </cardData>
+                    <cardData>
+                        <field>startHour</field>
+                        <value name="startHour"/>
+                    </cardData>
+                    <cardData>
+                        <field>endDate</field>
+                        <value name="endDate"/>
+                    </cardData>
+                    <cardData>
+                        <field>endHour</field>
+                        <value name="endHour"/>
+                    </cardData>
+                    <cardData>
+                        <field>files</field>
+                        <value name="files"/>
+                    </cardData>
+                    <cardData>
+                        <field>havetoaccept</field>
+                        <value name="havetoaccept"/>
+                    </cardData>
+                    <cardData>
+                        <field>usersthataccepted</field>
+                        <value name="usersthataccepted"/>
+                    </cardData>
+                    <cardData>
+                    	<field>usersthatrefuse</field>
+                    	<value name="usersthatrefuse"/>
+                    </cardData>
+                    <cardData>
+                    	<field>localevent</field>
+                    	<value name="localevent"/>
+                    </cardData>
+                    <cardData>
+                    	<field>departamento</field>
+                    	<value name="departamento"/>
+                    </cardData>
+					<cardData>
+					    <field>ata</field>
+					    <value name="ata"/>
+					</cardData>           
+                    <cardData>
+                    	<field>linkcalendarevent</field>
+                    	<value name="linkcalendarevent"/>
+                    </cardData>
+                    <cardData>
+                    	<field>externalusers</field>
+                    	<value name="externalusers"/>
+                    </cardData>
+                    <cardData>
+                    	<field>remetente_nome</field>
+                    	<value name="remetente_nome"/>
+                    </cardData>
+                    <cardData>
+                    	<field>remetente_email</field>
+                    	<value name="remetente_email"/>
+                    </cardData>
+                    <parentDocumentId/>
+                    <colleagueId/>
+                    <inheritSecurity>true</inheritSecurity>
+                </item>
+            </card>
+        </ws:create>
+    </soapenv:Body>
+</soapenv:Envelope>

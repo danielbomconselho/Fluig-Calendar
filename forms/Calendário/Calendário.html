@@ -1,0 +1,81 @@
+<html>
+<head>
+	<link type="text/css" rel="stylesheet" href="/portal/resources/style-guide/css/fluig-style-guide.min.css"/>
+	<link type="text/css" rel="stylesheet" href="simplecolorpicker.css" />
+	<link type="text/css" rel="stylesheet" href="simplecolorpickerregularfont.css" />
+	<style>
+	.double-input .form-control {
+	    width: 50% !important;
+	}
+	</style>
+	
+	<script src="/portal/resources/js/jquery/jquery.js"></script>
+	<script src="/portal/resources/js/jquery/jquery-ui.min.js"></script>
+	<script src="/portal/resources/style-guide/js/fluig-style-guide.min.js"></script>
+	<script src="simplecolorpicker.js"></script>
+	<script>
+		$(function() {
+			$('#eventcolor').simplecolorpicker({
+				theme: 'regularfont'
+			});
+			
+			//$('input, textarea').attr("readonly", true);
+		});
+	</script>
+</head>
+<body>
+	<div class="fluig-style-guide">
+		<div class="container">
+			<form role="form">
+			
+		        <!-- input type="text" class="form-control" id="id" name="id" value=""-->
+		        <!-- input type="text" class="form-control" id="groupId" name="groupId" value=""-->
+		        <label>All Day event</label>
+		        <input type="text" class="form-control" id="allDay" name="allDay" value="false">
+		        <label>StartDate</label>
+		        <input type="text" class="form-control" id="startdate" name="startdate" value="">
+		        <label>EndDate</label>
+		        <input type="text" class="form-control" id="enddate" name="enddate" value=""> 
+		        <label>StarTime</label>
+		        <input type="text" class="form-control" id="starttime" name="starttime" value="" mask="99:99">
+		        <label>EndTime</label>
+		        <input type="text" class="form-control" id="endtime" name="endtime" value="" mask="99:99">
+		        <label>Titulo</label>
+		        <input type="text" class="form-control" id="title" name="title" value="">
+		        <label>URL to redirect</label>
+		        <input type="text" class="form-control" id="url" name="url" value="">
+		        <!-- input type="text" class="form-control" id="classNames" name="classNames" value=""-->
+		        <!-- input type="text" class="form-control" id="editable" name="editable" value=""-->
+		        <!-- input type="text" class="form-control" id="startEditable" name="startEditable" value=""-->
+		        <!-- input type="text" class="form-control" id="durationEditable" name="durationEditable" value=""-->
+		        <!--input type="text" class="form-control" id="rendering" name="rendering" value=""-->
+		        <!-- input type="text" class="form-control" id="overlap" name="overlap" value=""-->
+		        <!-- input type="text" class="form-control" id="constraint" name="constraint" value=""-->
+		        <label>Background color</label>
+		        <input type="text" class="form-control" id="backgroundColor" name="backgroundColor" value="">
+		        <label>Border color</label>
+		        <input type="text" class="form-control" id="borderColor" name="borderColor" value="">
+		        <label>Text color</label>
+		        <input type="text" class="form-control" id="textColor" name="textColor" value="">
+		        <label>ExtendProperts</label>
+		        <input type="text" class="form-control" id="extendedProps" name="extendedProps" value="">
+		        <label>Fonte</label>
+		        <input type="text" class="form-control" id="source" name="source" value="">
+		        <label>Ata</label>
+		        <input type="text" class="form-control" id="ata" name="ata" value="">
+		        <input type="text" class="form-control" id="userata" name="userata" value="">
+		        <label>Reporte</label>
+		        <input type="text" class="form-control" id="reporte" name="reporte" value="">
+		        <input type="text" class="form-control" id="userreporte" name="userreporte" value="">
+		        <label>Departamento</label>
+		        <input type="text" class="form-control" id="departamento" name="departamento" value="">
+				<label>local</label>
+		        <input type="text" class="form-control" id="localevent" name="localevent" value="">		        
+				<label>Nome</label>
+		        <input type="text" class="form-control" id="name" name="name" value="">		        
+		        		        
+			</form>
+		</div>
+	</div>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ws="http://ws.foundation.ecm.technology.totvs.com/">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <ws:getGlobalParam>
+         <username></username>
+         <password></password>
+         <companyId></companyId>
+      </ws:getGlobalParam>
+   </soapenv:Body>
+</soapenv:Envelope>
