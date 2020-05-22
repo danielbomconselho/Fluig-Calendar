@@ -14,7 +14,6 @@ bower_components/
 node_modules/
 .project
 .recommenders/
-reports/
 .settings/
 */.settings/
 */target/*
