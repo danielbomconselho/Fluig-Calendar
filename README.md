@@ -24,7 +24,7 @@ Windows:
 ```sh
 Exportar formulario fluig, pegar o codigo do formulario no ged
 
-Alterar parentDocumentId:"aqui cosdigo do formulario exportado"
+Alterar parentDocumentId:"aqui código do formulario exportado"
 ```
 
 ## Histórico de lançamentos
