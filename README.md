@@ -34,7 +34,7 @@ Alterar parentDocumentId:"aqui código do formulario exportado"
 
 ## Licença
 
-Daniel Bom Conselho Sales– [![insta-image]](https://www.instagram.com/bomconselhosales/) – [![google-image]](danielbomconselho@gmail.com) - [![linkedin-image]](https://www.linkedin.com/in/daniel-bom-conselho-sales-1753611b/)
+Daniel Bom Conselho Sales – [![insta-image]](https://www.instagram.com/bomconselhosales/) – [![google-image]](danielbomconselho@gmail.com) - [![linkedin-image]](https://www.linkedin.com/in/daniel-bom-conselho-sales-1753611b/)
 
 Calendario é distribuído livremente.
 
@@ -43,7 +43,6 @@ _[Fullcalendar](https://fullcalendar.io/) é de propriedade dos seus autores.
 
 [https://github.com/danielbomconselho/](https://github.com/danielbomconselho/)
 
-[linkedin-image]:https://raw.githubusercontent.com/danielbomconselho/Fluig-Calendar/master/linkedin_4.png
+[linkedin-image]:https://raw.githubusercontent.com/danielbomconselho/Fluig-Calendar/master/Linkedin_4.png
 [insta-image]:https://raw.githubusercontent.com/danielbomconselho/Fluig-Calendar/master/Instagram_4.png
-[email-image]:https://raw.githubusercontent.com/danielbomconselho/Fluig-Calendar/master/Instagram_4.png
-[google-image]:https://raw.githubusercontent.com/danielbomconselho/Fluig-Calendar/master/google_4.png
+[google-image]:https://raw.githubusercontent.com/danielbomconselho/Fluig-Calendar/master/Google_4.png
