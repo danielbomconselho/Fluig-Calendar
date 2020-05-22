@@ -43,4 +43,4 @@ _[Fullcalendar](https://fullcalendar.io/) é de propriedade dos seus autores.
 
 [https://github.com/danielbomconselho/](https://github.com/danielbomconselho/)
 
-[linkedin-image]:./linkedin.png
+[linkedin-image]:https://raw.githubusercontent.com/danielbomconselho/Fluig-Calendar/master/linkedin.png
